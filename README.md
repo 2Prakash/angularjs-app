@@ -1,1 +1,3 @@
-# angularjs-app
+# Angularjs-app
+
+## Coursera angularjs app
